@@ -32,7 +32,7 @@ Connect the **SSD1306 OLED** to the ESP32 using I2C:
 
 ### Step 3: Add ESP32 Board to Arduino IDE  
 1. Open **Arduino IDE**  
-2. Go to **File → Preferences** (Shortcut: `Ctrl + ,`)  
+2. Go to **File -> Preferences** (Shortcut: `Ctrl + ,`)  
 3. Copy and paste this URL into **Additional Board Manager URLs**: "https://espressif.github.io/arduino-esp32/package_esp32_index.json"
 4. Click **OK**, then install **ESP32 Board** from the Board Manager.  
 
